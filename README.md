@@ -16,7 +16,7 @@ On this page, I'll visually demonstrate  myself working on and briefly explainin
 
 
 
-In these images, I Installed IIS in Windows with CGI and Common HTTP Features + Virtual Machine Creation on Azure
+    In these images, I Installed IIS in Windows with CGI and Common HTTP Features + created a Virtual Machine on Azure
 
 ![image](https://github.com/kevinbels/osTicket-prerequisites/assets/141461620/4dff6ba1-de75-461b-983f-62e220e5aae7)
 
