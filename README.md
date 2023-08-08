@@ -16,32 +16,11 @@ On this page, I'll visually demonstrate  myself working on and briefly explainin
 
 
 
-    In these images, I Installed IIS in Windows with CGI and Common HTTP Features + created a Virtual Machine on Azure
+    In these images, I Installed IIS in Windows with CGI and Common HTTP Features + osTicketing System + created a Virtual Machine on Azure
 
 ![image](https://github.com/kevinbels/osTicket-prerequisites/assets/141461620/4dff6ba1-de75-461b-983f-62e220e5aae7)
 
 ![image](https://github.com/kevinbels/osTicket-prerequisites/assets/141461620/392bcec4-0664-4195-a739-cead7074d690)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![image](https://github.com/kevinbels/osTicket-prerequisites/assets/141461620/5d7f71b4-bf1f-45b2-bdbf-4c786697c603)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
