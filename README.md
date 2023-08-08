@@ -16,11 +16,12 @@ On this page, I'll visually demonstrate  myself working on and briefly explainin
 
 
 
-    In these images, I Installed IIS in Windows with CGI and Common HTTP Features + osTicketing System + created a Virtual Machine on Azure
+    In these images, I Installed IIS in Windows with CGI and Common HTTP Features, Created an osTicketing System from scratch, and created a Virtual Machine on Azure
 
 ![image](https://github.com/kevinbels/osTicket-prerequisites/assets/141461620/4dff6ba1-de75-461b-983f-62e220e5aae7)
 
-![image](https://github.com/kevinbels/osTicket-prerequisites/assets/141461620/392bcec4-0664-4195-a739-cead7074d690)
+![image](https://github.com/kevinbels/osTicket-prerequisites/assets/141461620/929f7cda-dc27-43b6-89a5-07c96762fae7)
+
 
 ![image](https://github.com/kevinbels/osTicket-prerequisites/assets/141461620/5d7f71b4-bf1f-45b2-bdbf-4c786697c603)
 
