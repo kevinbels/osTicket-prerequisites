@@ -16,7 +16,11 @@ On this page, I'll visually demonstrate  myself working on and briefly explainin
 
 
 
-OsTicketing System
+Install IIS in Windows WITH CGI and Common HTTP Features + Virtual Machine Creation on Azure
+
+![image](https://github.com/kevinbels/osTicket-prerequisites/assets/141461620/4dff6ba1-de75-461b-983f-62e220e5aae7)
+
+![image](https://github.com/kevinbels/osTicket-prerequisites/assets/141461620/392bcec4-0664-4195-a739-cead7074d690)
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
